@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../../texml2html.xsl"?>
+<log xmlns:xi="http://www.w3.org/2003/XInclude" title="What is &quot;Communication&quot;?" by="" slide="1" embed="1">
+<article>
+<s h="What is &quot;Communication&quot;?">
+<frame title="\insertsection">
+<img src="moon.jpg" scale=".13"/>
+</frame>
+
+<frame title="\insertsection">
+<block>
+	「月が綺麗ですね」
+</block>
+<img src="moon.jpg" scale=".1"/>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	コミュニケーションが「上手くいかない」のはどんなとき?
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="N. Luhmannのコミュニケーションモデル" class="alert">
+	コミュニケーションを<em>4つの選択</em>と定義
+	<ol>
+		<li><alert>(生命)情報</alert>の選択</li>
+		<li><alert>表現</alert>の選択(<em>デザイン</em>)</li>
+		<li><alert>理解</alert>の選択</li>
+		<li><alert>理解を受け入れるか否か</alert>の選択</li>
+	</ol>
+	これらの繰り返しにより、コミュニケーションが継続していく
+</block>
+</frame>
+
+<frame title="\insertsection">
+<img src="model.svg" scale=".53"/>
+</frame>
+
+<s h="1. (生命)情報の選択">
+<frame title="\insertsection">
+<block title="\insertsubsection" class="alert">
+	情報の送り手が、相手に<alert>伝えたい情報</alert>を選択する
+</block>
+<img src="model-step1.svg" scale=".75"/>
+</frame>
+
+</s>
+
+<s h="2. 表現の選択">
+<frame title="\insertsection">
+<block title="\insertsubsection" class="alert">
+	情報の送り手が、情報に<alert>どんな記号・言語を付加するか</alert>を選択する
+	<ul>
+		<li>表現の選択を<em>デザイン</em>ともいう</li>
+		<li>どんな記号・言語を付加するかは、情報の送り手の<em>意図</em>により決まる<br/>
+			\[ (\text{情報}) + (\text{意図}) = (\text{表現}) \]</li>
+		<li>表現の選択により、生命情報から社会情報へ変化する</li>
+	</ul>
+</block>
+<img src="model-step2.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<multicols>
+<column width="7cm">
+<block title="産経新聞連載「車いすでみるなら」より">
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd><em>安全</em>のために<alert>自分の行動を周囲に予測してもらう</alert>ことはとても重要です。
+	手で<em>車いすを漕ぐ場合は、漕ぐ動きで減速や加速が周囲にわかってもらえ</em>ます。
+	漕ぐのをやめれば後ろにいる人は「止まるかも」と予測できますが、<em>電動車いすでは漕ぐ動きがないので、周囲には予測しにくい</em>のです。</p>
+
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>通りかかったお店に寄りたいと思った瞬間、電動車いすは突然に止まることができます。
+	でも、そうすると後ろを歩いている人は驚くでしょう。もしかしたらぶつかってしまうかもしれません。</p>
+
+	<p><cmd name="hspace"><parm>1\zw</parm></cmd>止まるときや進路変更をするときは、<alert>後ろの人が認識できる動きで</alert>後方確認をした上で、徐々に減速するように心がけています。</p>
+</block>
+</column>
+<column width="5cm">
+<img src="chair-easy.jpg" scale=".2"/>
+<img src="wheelchair.jpg" scale=".2"/>
+</column>
+</multicols>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	「自分の行動を周囲に予測してもらう」ために、意識してやっていることは?
+</block>
+</frame>
+</s>
+
+<s h="3. 理解の選択">
+<frame title="\insertsection">
+<block title="\insertsubsection" class="alert">
+	情報の受け手が、機械情報を<alert>どう理解するか</alert>を選択する
+</block>
+<img src="model-step3.svg" scale=".75"/>
+</frame>
+
+<frame title="\insertsection">
+<block class="example" title="Q.">
+	「理解する」とは?
+</block>
+</frame>
+
+<frame title="\insertsection">
+<block title="\insertsubsection" class="alert">
+	情報の受け手が、機械情報を<alert>どう理解するか</alert>を選択する
+	<ul>
+		<li><em>理解</em>は、表現から<em>情報</em>と送り手の<em>意図</em>を<em>区別</em>できるときに可能
+			\[ (\text{表現}) = (\text{情報}) + (\text{意図}) \]</li>
+		<li><alert>受け手の理解は主観的なので、送り手の意図とは異なりうる</alert></li>
+		<li>理解の選択により、機械情報から社会情報へ変化する</li>
+	</ul>
+</block>
+<img src="model-step3.svg" scale=".75"/>
+</frame>
+</s>
+
+<s h="4. 理解を受け入れるか否かの選択">
+<frame title="\insertsection">
+<block title="\insertsubsection" class="alert">
+	情報の受け手が、選んだ理解を<alert>受け入れるか受け入れないか</alert>を選択する
+</block>
+<img src="model-step4.svg" scale=".75"/>
+</frame>
+</s>
+
+<frame title="\insertsection">
+<img src="model.svg" scale=".53"/>
+</frame>
+
+<frame title="\insertsubsection">
+<block>
+	ただ<em>選択</em>するだけでは、コミュニケーションできない!
+	<ul>
+		<li>コミュニケーションを<em>その場に居ない人と行える</em>ことはありそうにない</li>
+		<li>コミュニケーションが理解されても、その「<em>理解が相手に受け入れられる</em>」ことはありそうにない</li>
+		<li mark="⇨">コミュニケーションの<alert>「間に入る」もの</alert>が必要</li>
+	</ul>
+</block>
+</frame>
+
+
+<s h="Media">
+<frame title="\insertsubsection">
+<block title="Q." class="example">
+	「メディア」の例を列挙せよ
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="\insertsubsection" class="alert">
+	<alert>media</alert> ← medium(中間の)<br/>
+	コミュニケーションで情報を<ruby r="ばいかい"><alert>媒介</alert></ruby>するもの
+	<ul>
+		<li><alert>伝播メディア</alert><br/>
+			<em>機械情報</em>を<em>物理的</em>に媒介</li>
+		<li><alert>成果メディア</alert><br/>
+			<em>社会情報</em>を<em>論理的</em>に媒介</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="Q." class="example">
+	あなたが所属している「組織」を列挙せよ
+	<ul>
+		<li mark="※">ここでいう「組織」は、「あなたがよくコミュニケーションする集団」という意味</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="「個性」">
+	<em>個性</em>: 個人の所属する組織をすべて除いた、その人に固有の部分
+<!--	<ul>
+		<li><em>個性</em>: 個人の所属する組織をすべて除いた、その人に固有の部分</li>
+		<li><em>人格</em>: その人が他者とのコミュニケーションにおいてどう扱われるか</li>
+	</ul>-->
+</block>
+<img src="personality-color.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsubsection">
+<img src="personality-babymetal.svg" scale=".5"/>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="成果メディア" class="alert">
+	<em>社会情報</em>を<em>論理的</em>に媒介<br/>
+	例: 真理、愛、貨幣、法、権力、宗教、芸術
+	<!-- 「内輪ネタ」「暗黙のルール」「常識」など -->
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<img src="model-media.svg" scale=".53"/>
+</frame>
+</s>
+
+
+<s h="メディアの影響">
+<frame title="\insertsubsection">
+<block title="Q." class="example">
+	最近、<em>思い通りにならなかったこと</em>はありますか?
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="メディアが個人に与える影響">
+	メディアを通じて、心の中に<alert>現実イメージ</alert>が構築される
+	<ul>
+		<li>人はメディアを介して「現実」に対する認識を獲得</li>
+		<li>メディアは現実を<em>再構成</em>して提示</li>
+		<li mark="⇨"><alert>現実をそのまま反映しているわけではない</alert>
+			\[ \text{現実イメージ} \neq \text{現実} \]</li>
+	</ul>
+</block>
+</frame>
+
+<frame title="\insertsubsection">
+<block title="メディアが社会に与える影響: 機能的分化" class="alert">
+	現代社会は、各組織が<em>高度に専門化</em>(<alert>機能的分化社会</alert>)<br/>
+	例: 政治システム、法システム、経済システム、教育システム
+</block>
+<!-- TODO: 機能的分化のスパイラルを表す図 -->
+</frame>
+
+<frame title="\insertsubsection">
+<block title="包摂と排除">
+	「自己責任」の社会
+	<ul>
+		<li><ruby r="ほうせつ"><em>包摂</em></ruby>(inclusion)の領域: 結合が緩やかに</li>
+		<li><em>排除</em>(exclusion)の領域: 高度に統合</li>
+	</ul>
+</block>
+<!-- TODO: 包摂と排除を表す図 -->
+<!-- TODO: アイドルが声優に…?(包摂) 小保方さんの例(排除) -->
+</frame>
+
+<frame title="\insertsubsection">
+<block title="排除に対する解決策?">
+	<ul>
+		<li>社会的な<em>支援のための新たな組織</em>をつくる<br/>
+			例: NPO,ネット上のコミュニティ,セルフヘルプグループ</li>
+		<li>他の組織に対する<em>無関心から脱却</em>する</li>
+	</ul>
+</block>
+</frame>
+</s>
+</s>
+</article>
+</log>

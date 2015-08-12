@@ -11,7 +11,7 @@
 	<li>単元の指導計画<br/>
 		$§.$ コミュニケーション
 		<cmd name="vspace"><parm>-1.5em</parm></cmd>
-		<multicols num="3">
+		<multicols num="2">
 		1. コミュニケーション(2時間, 本時)<br/>
 		2. メディアと機能的分化社会(2時間)
 		</multicols>

@@ -130,7 +130,7 @@
 <img src="model.svg" scale=".53"/>
 </frame>
 
-<frame title="\insertsubsection">
+<frame title="\insertsection">
 <block>
 	ただ<em>選択</em>するだけでは、コミュニケーションできない!
 	<ul>

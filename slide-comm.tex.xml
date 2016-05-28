@@ -177,30 +177,6 @@
 </frame>
 
 <frame title="\insertsubsection">
-<block title="Q." class="example">
-	あなたが所属している「組織」を列挙せよ
-	<ul>
-		<li mark="※">ここでいう「組織」は、「あなたがよくコミュニケーションする集団」という意味</li>
-	</ul>
-</block>
-</frame>
-
-<frame title="\insertsubsection">
-<block title="「個性」">
-	<em>個性</em>: 個人の所属する組織をすべて除いた、その人に固有の部分
-<!--	<ul>
-		<li><em>個性</em>: 個人の所属する組織をすべて除いた、その人に固有の部分</li>
-		<li><em>人格</em>: その人が他者とのコミュニケーションにおいてどう扱われるか</li>
-	</ul>-->
-</block>
-<img src="personality-color.svg" scale=".5"/>
-</frame>
-
-<frame title="\insertsubsection">
-<img src="personality-babymetal.svg" scale=".5"/>
-</frame>
-
-<frame title="\insertsubsection">
 <block title="成果メディア" class="alert">
 	<em>社会情報</em>を<em>論理的</em>に媒介<br/>
 	例: 真理、愛、貨幣、法、権力、宗教、芸術

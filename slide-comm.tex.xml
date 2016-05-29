@@ -186,8 +186,10 @@
 <frame title="\insertsubsection">
 <block title="成果メディア" class="alert">
 	<em>社会情報</em>を<em>論理的</em>に媒介<br/>
-	例: 真理、愛、貨幣、法、権力、宗教、芸術
-	<!-- 「内輪ネタ」「暗黙のルール」「常識」など -->
+	<ul>
+		<li>例: <alert>真理</alert>、<alert>愛</alert>、<alert>貨幣</alert>、<alert>法</alert>、<alert>権力</alert>、宗教、芸術</li>
+		<li>特定の組織でのみ通じる<em>「内輪ネタ」</em>や<em>「暗黙のルール」</em>(組織文化)も含む</li>
+	</ul>
 </block>
 </frame>
 

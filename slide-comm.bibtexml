@@ -41,6 +41,12 @@
 	<url>http://www.shinsyocenter-miyazaki.com/shinsyo-shien/hosougu/hosougu-kurumaisu.html</url>
 </misc></entry>
 
+<entry id="shannon"><misc>
+	<author>Information theory founders</author>
+	<title>Claude Elwood Shannon</title>
+	<url>http://it-science.net/shannon.html</url>
+</misc></entry>
+
 <entry id="ietf"><misc>
 	<author>IETF</author>
 	<title>RFC 793 - Transmission Control Protocol</title>

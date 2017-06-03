@@ -110,7 +110,7 @@
 	<ul>
 		<li><alert>誤り検出・訂正</alert>(p.65)<br/>
 			冗長性を<em>加え</em>て、<em>確実に</em>データを送る</li>
-		<li><alert>圧縮</alert>(p.104-105)<br/>
+		<li><alert>圧縮</alert>(p.104-107)<br/>
 			冗長性を<em>除い</em>て、<em>高速に</em>データを送る</li>
 	</ul>
 </block>
